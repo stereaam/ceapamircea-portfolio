@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.0b367e1d.css",
-    "main.js": "/static/js/main.0fab63d9.js",
-    "static/js/495.cdaa57ff.chunk.js": "/static/js/495.cdaa57ff.chunk.js",
-    "static/js/62.8fee3f73.chunk.js": "/static/js/62.8fee3f73.chunk.js",
-    "static/js/846.4e06116b.chunk.js": "/static/js/846.4e06116b.chunk.js",
-    "static/js/216.08335e46.chunk.js": "/static/js/216.08335e46.chunk.js",
-    "static/js/787.46e6d857.chunk.js": "/static/js/787.46e6d857.chunk.js",
-    "index.html": "/index.html",
-    "main.0b367e1d.css.map": "/static/css/main.0b367e1d.css.map",
-    "main.0fab63d9.js.map": "/static/js/main.0fab63d9.js.map",
-    "495.cdaa57ff.chunk.js.map": "/static/js/495.cdaa57ff.chunk.js.map",
-    "62.8fee3f73.chunk.js.map": "/static/js/62.8fee3f73.chunk.js.map",
-    "846.4e06116b.chunk.js.map": "/static/js/846.4e06116b.chunk.js.map",
-    "216.08335e46.chunk.js.map": "/static/js/216.08335e46.chunk.js.map",
-    "787.46e6d857.chunk.js.map": "/static/js/787.46e6d857.chunk.js.map"
+    "main.css": "/ceapamircea-portfolio/static/css/main.0b367e1d.css",
+    "main.js": "/ceapamircea-portfolio/static/js/main.c5e2e337.js",
+    "static/js/495.cdaa57ff.chunk.js": "/ceapamircea-portfolio/static/js/495.cdaa57ff.chunk.js",
+    "static/js/62.8fee3f73.chunk.js": "/ceapamircea-portfolio/static/js/62.8fee3f73.chunk.js",
+    "static/js/846.4e06116b.chunk.js": "/ceapamircea-portfolio/static/js/846.4e06116b.chunk.js",
+    "static/js/216.08335e46.chunk.js": "/ceapamircea-portfolio/static/js/216.08335e46.chunk.js",
+    "static/js/787.46e6d857.chunk.js": "/ceapamircea-portfolio/static/js/787.46e6d857.chunk.js",
+    "index.html": "/ceapamircea-portfolio/index.html",
+    "main.0b367e1d.css.map": "/ceapamircea-portfolio/static/css/main.0b367e1d.css.map",
+    "main.c5e2e337.js.map": "/ceapamircea-portfolio/static/js/main.c5e2e337.js.map",
+    "495.cdaa57ff.chunk.js.map": "/ceapamircea-portfolio/static/js/495.cdaa57ff.chunk.js.map",
+    "62.8fee3f73.chunk.js.map": "/ceapamircea-portfolio/static/js/62.8fee3f73.chunk.js.map",
+    "846.4e06116b.chunk.js.map": "/ceapamircea-portfolio/static/js/846.4e06116b.chunk.js.map",
+    "216.08335e46.chunk.js.map": "/ceapamircea-portfolio/static/js/216.08335e46.chunk.js.map",
+    "787.46e6d857.chunk.js.map": "/ceapamircea-portfolio/static/js/787.46e6d857.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b367e1d.css",
-    "static/js/main.0fab63d9.js"
+    "static/js/main.c5e2e337.js"
   ]
 }
